@@ -15,6 +15,7 @@ I am a beginner Front-End Development under the RSSchool program!
 * HTML
 * CSS/SASS
 * Adobe Photoshop
+* Illustratоr
 ***
 ## Code Example
 ```
