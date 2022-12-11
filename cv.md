@@ -14,8 +14,10 @@ I am a beginner Front-End Development under the RSSchool program!
 ## My Skills
 * HTML
 * CSS/SASS
+* JS
 * Adobe Photoshop
 * Illustratоr
+
 ***
 ## Code Example
 ```
