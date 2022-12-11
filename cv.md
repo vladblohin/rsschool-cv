@@ -6,6 +6,7 @@
 * __Discord:__ vlad_blohin
 * __e-mail:__ vladislavblohin@yandex.ru
 * __Phone:__ +79004993848
+* __City:__ Tambov
 ***
 ## About Me
 I am a beginner Front-End Development under the RSSchool program!
@@ -13,6 +14,7 @@ I am a beginner Front-End Development under the RSSchool program!
 ## My Skills
 * HTML
 * CSS/SASS
+* Adobe Photoshop
 ***
 ## Code Example
 ```
